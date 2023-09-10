@@ -1,0 +1,2 @@
+what is ctime->>
+why window.requestAnimationFrame(main) is better than  setInterval or setTimeout
